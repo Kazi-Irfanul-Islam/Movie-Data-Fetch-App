@@ -1,4 +1,4 @@
-<h1 style="text-align: center;">React Quiz App</h1>
+<h1 style="text-align: center;">Movie Data Fetch App</h1>
 
 ![React](https://img.shields.io/badge/React-18.2.0-blue?logo=react&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -10,7 +10,7 @@
 
 ## 📸 Screenshots
 
-Here are some previews of the **React Quiz App** in action:
+Here are some previews of the **Movie Data Fetch App** in action:
 
 <p align="center">
   <img src="src/assets/usepopcorn.png" 
